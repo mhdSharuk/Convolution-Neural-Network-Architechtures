@@ -1,3 +1,3 @@
-# Inception-Resnet-V2-Network
-A Tensorflow implementation of image training network.A combination of inception network and resenet network
+# A list of State of the art Complex Convolution Neural Nets
+A Tensorflow implementation of computer vision neural nets 
 (Implementation not completed)
