@@ -1,4 +1,4 @@
-#Importig the required modeules
+#Importing the required modules
 
 import tensorflow as tf 
 from tensorflow.keras import Model,Input
